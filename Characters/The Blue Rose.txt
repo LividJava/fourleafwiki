@@ -1,0 +1,27 @@
+  <page> # The Blue Rose
+    <title>The Blue Rose</title>
+    <ns>0</ns>
+    <id>227</id>
+    <revision>
+      <id>513</id>
+      <parentid>512</parentid>
+      <timestamp>2020-03-29T22:58:32Z</timestamp>
+      <contributor>
+        <username>LividJava</username>
+        <id>8649201</id>
+      </contributor>
+      <comment>Stubbed</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="712">{{Stub}}
+==Initial Appearance ==
+{{Character|name = The Blue Rose|image = BlueRoseSilhouette Episode18.png|occupation = Red-Hood (Unknown)}}Only appearing so far as a silhouette in Episode 18 of Four Leaf. The Blue Rose was the other leader of The Red Hoods. Her bells were taken by Lina after a long fight in Garua. Her current whereabouts are unknown.
+
+== Relationships Edit ==
+
+===[[Carolina|Lina]]===
+The Blue Rose and Lina were referred to as "The Long-Haired Witches" by the deidri and "The Roses" by The Red Hoods. It has been said that the two went to face The Wolf but ended up fighting each other, with Lina taking 6 bells from her, labelling the former Red Rose as a traitor.
+[[Category:Characters]]</text>
+      <sha1>2q6c198ao9okc17th2hd7awm4lfcvq8</sha1>
+    </revision>
+  </page>

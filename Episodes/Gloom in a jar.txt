@@ -1,0 +1,48 @@
+  <page> # Gloom in a Jar
+    <title>Gloom in a Jar</title>
+    <ns>0</ns>
+    <id>259</id>
+    <revision>
+      <id>503</id>
+      <timestamp>2020-03-29T19:28:42Z</timestamp>
+      <contributor>
+        <username>TheWolfyArtist</username>
+        <id>45321248</id>
+      </contributor>
+      <comment>for ep 7</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="675">{{Episode
+|title = Gloom in a Jar
+|image =Episode 07 Gloom in a Jar Thumbnail.png 
+|partOfSeason = Season 1
+|episodeNumber = Episode 7
+|airDate = October 19, 2018
+|writer = Lumaga
+|previousEpisode = [[Witches are Evil?]]
+|nextEpisode = [[Witch Hunting]]
+}}
+
+The following article will not contain any images or music from the episode, except the episode's thumbnail. it, however, can be read and seen for yourself [here].
+
+==Synopsis==
+Lina takes Lupe to her job.
+
+==Plot==
+
+==Features==
+
+===Characters ===
+*[[Guadalupe Jara|Guadalupe "Lupe" Jara]]
+*[[Carolina|Carolina "Lina"]]
+*Old man
+
+===Locations===
+* Lina's House
+* Old man's house
+* Paso Garúa (mentioned)
+
+==Trivia==</text>
+      <sha1>gougzj24qtqzqhh1ef136b3f7r4i3uc</sha1>
+    </revision>
+  </page>

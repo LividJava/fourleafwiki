@@ -1,0 +1,291 @@
+  <page> # Episode List
+    <title>Episode List</title>
+    <ns>0</ns>
+    <id>174</id>
+    <revision>
+      <id>510</id>
+      <parentid>509</parentid>
+      <timestamp>2020-03-29T20:13:10Z</timestamp>
+      <contributor>
+        <username>TheWolfyArtist</username>
+        <id>45321248</id>
+      </contributor>
+      <minor/>
+      <comment>fixed dates</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3032">A collection of all Four Leaf episodes thus far!
+
+== Season 1 ==
+{| class="article-table" style="width: 500px;" cellspacing="1" cellpadding="1" border="0"
+|-
+! scope="col" |
+Episode #
+! scope="col" |Name
+! scope="col" |Date Released
+|-
+|1
+|[[The Least Magical Person]]
+|September 21, 2018
+|-
+|2
+|[[Lina and Lupe]]
+|September 21, 2018
+|-
+|3
+|[[Questions Later]]
+|September 21, 2018
+|-
+|4
+|[[Magic is Normal]]
+|September 28, 2018
+|-
+|5
+|[[Witches are Evil?]]
+|October 5, 2018
+|-
+|6
+|[[Still Dreaming]]
+|October 12, 2018
+|-
+|7
+|[[Gloom in a Jar]]
+|October 19, 2018
+|-
+|8
+|[[Witch Hunting]]
+|October 26, 2018
+|-
+|9
+|[[Betrayal]]
+|November 2, 2018
+|-
+|10
+|A Meeting at the Station
+|November 9, 2018
+|-
+|11
+|Bad Company
+|November 16, 2018
+|-
+|12
+|The Dragonfly
+|November 23, 2018
+|-
+|13
+|Paso Garúa Inn
+|November 30, 2018
+|-
+|14
+|Midnight Visitor
+|December 7, 2018
+|-
+|15
+|Gloom pit
+|December 14, 2018
+|-
+|16
+|The Myth of the Lady
+|December 21, 2018
+|-
+|17
+|Time Flies, Right?
+|December 28, 2018
+|-
+|18
+|The Red Hoods
+|January 3, 2019
+|-
+|19
+|Guadalupe's Restaurant
+|January 10, 2019
+|-
+|20
+|Bedtime Story
+|January 17, 2019
+|-
+|21
+|Tea Time
+|January 24, 2019
+|-
+|22
+|A Place To Hide
+|January 31, 2019
+|-
+|23
+|The Plan
+|February 7, 2019
+|-
+|24
+|The Festival of Roses
+|February 14, 2019
+|-
+|25
+|Black Eyes
+|February 21, 2019
+|-
+|26
+|The Bell of a Witch
+|February 28, 2019
+|-
+|27
+|Hiding Bells
+|March 7, 2019
+|-
+|28
+|The Red Hood
+|March 14, 2019
+|-
+|29
+|The Pink Rose
+|March 21, 2019
+|-
+|30
+|Beginning at the End
+|March 28, 2019
+|}
+
+== Season 2 (ongoing)==
+{| class="article-table" style="width: 500px;" cellspacing="1" cellpadding="1" border="0"
+|-
+! scope="col" |
+Episode #
+! scope="col" |Name
+! scope="col" |Date Released
+|-
+|31
+|A Fresh Start
+|July 26, 2019
+|-
+|32
+|Peace Offering
+|August 2, 2019
+|-
+|33
+|Your Own Good
+|August 9, 2019
+|-
+|34
+|The Street Musician
+|August 16, 2019
+|-
+|35
+|Friend And Foe
+|August 23, 2019
+|-
+|36
+|Fade To Black
+|August 30, 2019
+|-
+|37
+|That Dark Monster
+|September 6, 2019
+|-
+|38
+|Who Are You
+|September 13, 2019
+|-
+|39
+|Talk To Me
+|September 20, 2019
+|-
+|40
+|Magic Tricks
+|September 27, 2019
+|-
+|41
+|If You Wish To
+|October 4, 2019
+|-
+|42
+|You're Awake
+|October 11, 2019
+|-
+|43
+|What Happened
+|October 18, 2019
+|-
+|44
+|Where Are We?
+|October 25, 2019
+|-
+|45
+|Those Who Don't Dream
+|November 8, 2019
+|-
+|46
+|Heir Of The Chief
+|November 15, 2019
+|-
+|47
+|The Chef
+|November 22, 2019
+|-
+|48
+|You're a Witch
+|November 29, 2019
+|-
+|49
+|Alvar's Wish
+|December 6, 2019
+|-
+|50
+|The Trip
+|December 13, 2019
+|-
+|51
+|The Lady
+|December 20, 2019
+|-
+|52
+|Fears
+|January 3, 2020
+|-
+|53
+|Introductions
+|January 10, 2020
+|-
+|54
+|Is It Really?
+|January 17, 2020
+|-
+|55
+|Lupe's Wish
+|January 24, 2020
+|-
+|56
+|[[Flor de Abril]]
+|January 31, 2020
+|-
+|57
+|Not Ready Yet
+|February 7, 2020
+|-
+|58
+|Hugo's Wish
+|February 14, 2020
+|-
+|59
+|It's Not
+|February 21, 2020
+|-
+|60
+|Answers
+|February 28, 2020
+|-
+|61
+|An Apology
+|March 6, 2020
+|-
+|62
+|Lina's Wish
+|March 20, 2020
+|-
+|63
+|Breakfast
+|March 27, 2020
+|}
+[[Category:Episodes]]</text>
+      <sha1>db8asz8fgyc5wa849dl6dznsb3utfqt</sha1>
+    </revision>
+  </page>

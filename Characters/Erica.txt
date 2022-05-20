@@ -1,0 +1,28 @@
+  <page> # Erica
+    <title>Erica</title>
+    <ns>0</ns>
+    <id>217</id>
+    <revision>
+      <id>511</id>
+      <parentid>442</parentid>
+      <timestamp>2020-03-29T22:57:12Z</timestamp>
+      <contributor>
+        <username>LividJava</username>
+        <id>8649201</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="972">{{Character|name = Erica|image = Screen Shot 2020-03-28 at 9.16.48 PM.png|first_appearance = Episode 27 (Masquerading as the Pink Rose until Ep. 29)|race = Witch|occupation = Red-Hood|magic_manifest = Pink|bells_in_possession = 1}}
+
+==Initial Appearance ==
+Erica initially appears in Episode 27, where she pretends to be The Pink Rose. She battles with Lina and is defeated, only to be unmasked as an impostor. Her current whereabouts are unknown.
+==[[Red Hoods|The Red Hoods]] ==
+It was revealed that Lina was the one who recruited Erica into The Red Hoods. The relationship between the two and the reason behind her posing as The Pink Rose is currently unknown
+==Relationships ==
+===[[Carolina|Lina]]===
+In Episode 29, it was revealed that Lina herself was the one to recruit Erica into The Red Hoods. She seems to hate Lina for being a traitor and even goes as far as risking [[Guadalupe Jara|Lupe's]] life to get Lina to hand over her bells.
+[[Category:Characters]]</text>
+      <sha1>pd0hi3pzd9nvt33r4zfwhaxzgnctxdr</sha1>
+    </revision>
+  </page>

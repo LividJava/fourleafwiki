@@ -1,0 +1,62 @@
+  <page>
+    <title>Template:Character</title>
+    <ns>10</ns>
+    <id>73</id>
+    <revision>
+      <id>235</id>
+      <parentid>234</parentid>
+      <timestamp>2020-01-12T08:09:57Z</timestamp>
+      <contributor>
+        <username>LividJava</username>
+        <id>8649201</id>
+      </contributor>
+      <comment>Undo revision 234 by [[Special:Contributions/LividJava|LividJava]] ([[User talk:LividJava|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1174">&lt;infobox layout="stacked"&gt;
+  &lt;title source="name"&gt;
+      &lt;default&gt;{{PAGENAME}}&lt;/default&gt;
+  &lt;/title&gt;
+&lt;image source="image"&gt;&lt;default&gt;
+          {{#tag:gallery|
+             {{{image1|S1ep1title-crop.jpg}}}{{!}}{{{tab1|Image 1}}}
+             {{{image2|S1ep1title-crop.jpg}}}{{!}}{{{tab2|Image 2}}}
+             {{{image3|S1ep1title-crop.jpg}}}{{!}}{{{tab3|Image 3}}} 
+          }}
+&lt;/default&gt;&lt;/image&gt;
+  &lt;data source="first_appearance"&gt;
+    &lt;label&gt;First Appearance&lt;/label&gt;
+  &lt;/data&gt;
+  &lt;data source="origin"&gt;
+    &lt;label&gt;Origin&lt;/label&gt;
+  &lt;/data&gt;
+  &lt;data source="race"&gt;
+    &lt;label&gt;Race&lt;/label&gt;
+  &lt;/data&gt;
+  &lt;data source="age"&gt;
+    &lt;label&gt;Age&lt;/label&gt;
+  &lt;/data&gt;
+  &lt;data source="nicknames"&gt;
+    &lt;label&gt;Nicknames&lt;/label&gt;
+  &lt;/data&gt;
+  &lt;data source="occupation"&gt;
+    &lt;label&gt;Occupation(s)/Affiliations&lt;/label&gt;
+    &lt;default&gt;None&lt;/default&gt;
+  &lt;/data&gt;
+  &lt;data source="relationships"&gt;
+    &lt;label&gt;Relationships&lt;/label&gt;
+    &lt;default&gt;None&lt;/default&gt;
+  &lt;/data&gt;
+  &lt;group&gt;
+    &lt;header&gt;Magic&lt;/header&gt;
+    &lt;data source="magic_manifest"&gt;
+      &lt;label&gt;Magic Manifestation&lt;/label&gt;
+    &lt;/data&gt;
+    &lt;data source="bells_in_possession"&gt;
+      &lt;label&gt;Bells in Possession&lt;/label&gt;
+    &lt;/data&gt;
+  &lt;/group&gt;
+&lt;/infobox&gt;</text>
+      <sha1>rx4ipgzjep5hwlkowwndwpfiup59ila</sha1>
+    </revision>
+  </page>

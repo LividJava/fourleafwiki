@@ -1,0 +1,49 @@
+  <page> # Questions Later
+    <title>Questions Later</title>
+    <ns>0</ns>
+    <id>249</id>
+    <revision>
+      <id>494</id>
+      <parentid>489</parentid>
+      <timestamp>2020-03-29T18:55:37Z</timestamp>
+      <contributor>
+        <username>RedIN3RDS</username>
+        <id>45322050</id>
+      </contributor>
+      <comment>plot stuff</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1205">{{Episode
+ | title             = Questions Later
+ | partOfSeason      = 1
+ | episodeNumber     = 3
+ | image             = Episode 03 Questions Later Thumbnail.png
+ | airdate           = Sep 21, 2018
+ | writer            = Lumaga
+ | director          = 
+ | previousEpisode   = [[Lina and Lupe]]
+ | nextEpisode       = [[Magic is Normal]]
+}}
+
+The following article will not contain any images or music from the episode, except the episode's thumbnail. it, however, can be read and seen for yourself here.
+
+== Synopsis ==
+Lupe starts dreaming for the first time and meets an unexpected friend.
+
+== Plot ==
+Lupe had come to terms with the fact that Lina was nothing more than her Imaginary friend, and thus she went to sleep, not expecting to dream. But after she fell asleep, she wakes up in a different world saved by none other than Lina. Lupe then follows Lina to the subway, on the way to Lina's house. On the subway, it is revealed that Lupe was Lina's imaginary friend. 
+== Features ==
+
+=== Characters ===
+* [[Guadalupe Jara|Guadalupe "Lupe" Jara]]
+* [[Carolina|Carolina "Lina"]]
+
+=== Locations ===
+* Subway
+* Lina's house (mentioned)
+
+== Trivia ==
+* Apparently, there are no subways where Lupe lives</text>
+      <sha1>hxkwoys1auberxw1tu5jqk0wois2k0x</sha1>
+    </revision>
+  </page>

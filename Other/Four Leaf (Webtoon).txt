@@ -1,0 +1,36 @@
+  <page> # Four Leaf (Webtoon)
+    <title>Four Leaf (Webtoon)</title>
+    <ns>0</ns>
+    <id>294</id>
+    <revision>
+      <id>595</id>
+      <parentid>593</parentid>
+      <timestamp>2021-05-14T03:00:13Z</timestamp>
+      <contributor>
+        <username>Bluebird Azurite5</username>
+        <id>44628670</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="999">{{Webtoon|title1=Four Leaf|image1=[[File:4LeafLogo.jpg]]
+|author=[[User:Luzco Lumaga|Lumaga]]|genre=Fantasy|seasons=3|first_episode=[https://www.webtoons.com/en/fantasy/four-leaf/episode-1-the-least-magical-person/viewer?title_no=1454&amp;episode_no=1 Episode 1 - The Least Magical Person]|last/latest_episode=[https://www.webtoons.com/en/fantasy/four-leaf/s3-episode-100-what-will-it-be/viewer?title_no=1454&amp;episode_no=102 Episode 100 - What will it be?]|rating=9.73|suscribers=221.4K|viewers=N/A}}
+'''Four Leaf''' is a Webtoon created by [[User:Luzco Lumaga|Lumaga]].
+
+==Synopsis==
+"Lupe hasn’t been able to adapt very well to the new school… though she hasn’t really been able to adapt to anything ever. Four Leaf is a story about a bunch of dangerous magical girls, but most specially about one not-at-all-magical girl."
+
+== Characters ==
+
+* [[Guadalupe Jara]]
+* [[Carolina]]
+* [[Alvar Lambert]]
+* [[Cricket]]
+* [[Emma]]
+* [[Hugo]]
+* [[The Lady]]
+* [[The Wolf]]
+* [[Erica]]
+* [[The Blue Rose]]</text>
+      <sha1>0av22uu5a0yw3v1ulq7pxnqj0gbz9li</sha1>
+    </revision>
+  </page>

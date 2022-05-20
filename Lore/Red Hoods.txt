@@ -1,0 +1,38 @@
+  <page> # Red Hoods
+    <title>Red Hoods</title>
+    <ns>0</ns>
+    <id>195</id>
+    <revision>
+      <id>438</id>
+      <parentid>386</parentid>
+      <timestamp>2020-03-28T07:13:24Z</timestamp>
+      <contributor>
+        <username>Gegege no Jin</username>
+        <id>45322191</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1271">The Red Hoods were a dangerous group of witches, who made an alliance in order to kill [[The Wolf]].
+
+==General==
+
+Known for wearing red clothes and masks, they helped each other find gloom and collect bells to get stronger. They were considered a threat not only to humans, but also to other witches, as they viewed anyone who refused to join them as enemies. 
+
+==Leaders==
+
+There were two leaders of the Red Hoods.
+Known as the "Long Haired Witches" by humans, and "The Roses" by other witches, the Blue and Pink Roses both possesed 6 bells each.
+[https://fourleaf.fandom.com/wiki/Carolina Carolina] was confirmed to be the pink rose, while the identity of the blue rose is currently unknown.
+
+==Disbandment==
+When confronting [[The Wolf]], the Pink Rose betrayed the Blue Rose in a fight that almost destroyed Garúa town, and stole her bells. With 12 bells in her possesion, she tried to face the wolf on her own, but this one escaped.
+
+The group separated afterwards, out of distrust for each other without the guidance of the roses.
+===Festival of Roses===
+A year after those events, Garúa town decided to celebrate the anniversary of the separation of the Red Hoods and disappearance of The Wolf by holding the Festival of Roses.
+
+{{Verify}}
+[[Category:Lore]]</text>
+      <sha1>cc9f3cf7th9va2r2e17xx4a8pbvojm9</sha1>
+    </revision>
+  </page>

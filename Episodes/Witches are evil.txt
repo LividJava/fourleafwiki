@@ -1,0 +1,37 @@
+  <page> # Witches are Evil?
+    <title>Witches are Evil?</title>
+    <ns>0</ns>
+    <id>255</id>
+    <revision>
+      <id>497</id>
+      <timestamp>2020-03-29T19:10:04Z</timestamp>
+      <contributor>
+        <username>TheWolfyArtist</username>
+        <id>45321248</id>
+      </contributor>
+      <comment>made a page for the episode</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="741">{{Episode|title = Witches are Evil?|image = Episode 05 Witches are Evil? Thumbnail.png|partOfSeason = Season 1|episodeNumber = Episode 5|airDate = October 5, 2018|writer = Lumaga|previousEpisode = [[Magic is Normal]]|nextEpisode = [[Stil Dreaming]]}}{{Episode}}The following article will not contain any images or music from the episode, except the episode's thumbnail. it, however, can be read and seen for yourself [https://www.webtoons.com/en/fantasy/four-leaf/episode-5-witches-are-evil/viewer?title_no=1454&amp;episode_no=5 here].
+
+==Synopsis==
+Lupe finds out more about witches.
+
+==Plot==
+
+==Features==
+
+===Characters ===
+
+*[[Guadalupe Jara|Guadalupe "Lupe" Jara]]
+
+*[[Carolina|Carolina "Lina"]]
+
+===Locations===
+
+*Lina's house
+
+==Trivia==</text>
+      <sha1>kxsxm0ba249k2j5qbftpwgxfcy7zigz</sha1>
+    </revision>
+  </page>

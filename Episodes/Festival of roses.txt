@@ -1,0 +1,31 @@
+  <page> # The Festival of Roses
+    <title>The Festival of Roses</title>
+    <ns>0</ns>
+    <id>236</id>
+    <revision>
+      <id>458</id>
+      <parentid>457</parentid>
+      <timestamp>2020-03-28T19:28:31Z</timestamp>
+      <contributor>
+        <username>LividJava</username>
+        <id>8649201</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1179">[[File:Festival.PNG|thumb|521x521px|[https://www.webtoons.com/en/fantasy/four-leaf/episode-24-the-festival-of-roses/viewer?title_no=1454&amp;episode_no=24 Episode 24] ,The Festival of Roses]]
+
+== The Festival of Roses ==
+The Festival of Roses was a celebration of the disbanding of the [[Red Hoods]] and the disappearance of [[The Wolf]].
+
+The festival takes place a year after the Red Hoods disbanded and The Wolf disappeared.
+== Festivities ==
+In [https://www.webtoons.com/en/fantasy/four-leaf/episode-17-time-flies-right/viewer?title_no=1454&amp;episode_no=17 Episode 17] [[Cricket]] exclaims "...and there will be masks, and flags, and red hoods. But not the real ones, the budget was a bit tight&lt;code&gt;"&lt;/code&gt;, implying that the 'red hoods' are people dressed up in costumes for the festival.
+
+This is reaffirmed in [https://www.webtoons.com/en/fantasy/four-leaf/episode-24-the-festival-of-roses/viewer?title_no=1454&amp;episode_no=24 Episode 24] where you can see that Red Hood masks and hoods are for sale.
+
+Other festivities seem to include eating sweets, and wearing bells, as seen in  Episode 24. There are also balloons and streamers (with rose designs on them).
+[[Category:Lore]]</text>
+      <sha1>ld7ycptfi1ekkebwxkwp6w46ex0luld</sha1>
+    </revision>
+  </page>

@@ -1,0 +1,35 @@
+  <page> # Emma
+    <title>Emma</title>
+    <ns>0</ns>
+    <id>178</id>
+    <revision>
+      <id>590</id>
+      <parentid>575</parentid>
+      <timestamp>2021-04-30T00:44:30Z</timestamp>
+      <contributor>
+        <username>Bluebird Azurite5</username>
+        <id>44628670</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1320">{{Character|name = Emma|image = Emma.png|first_appearance = Episode 22 - A Place To Hide|occupation = Witch|magic_manifest = Lime Green|bells_in_possession = 1}}
+
+'''Emma''' is a character in [[Four Leaf]].
+== Initial Appearance ==
+Emma makes her debut in ''[https://www.webtoons.com/en/fantasy/four-leaf/episode-22-a-place-to-hide/viewer?title_no=1454&amp;episode_no=22 Episode 22 - A Place To Hide]'' by crashing through a window in [[Cricket|Cricket's]] home while trying to get away from a gang of [[Red Hoods]]. It is here that she also comes across the main three protagonists of the story.
+
+== Search For The Lady ==
+In ''[https://www.webtoons.com/en/fantasy/four-leaf/episode-24-the-festival-of-roses/viewer?title_no=1454&amp;episode_no=24 Episode 24 - The Festival of Roses],'' [[Guadalupe Jara|Lupe]] and Emma briefly speak about the mountains, the known general location of The Lady. Emma tells her that she's also in search of [[The Lady]] for a wish, but what that wish could be is not yet known.
+
+{{Verify}}
+
+== Gallery ==
+&lt;gallery&gt;
+Emma's Bell.png|Emma's Bell, Seen is Lina tossing the bell towards Emma, you can see the shift of colors as it slowly started to adapt to Lina.
+&lt;/gallery&gt;
+==Trivia ==
+*It has been confirmed by Lumaga herself that the design on Emma's bell is "Bell shaped." [[Category:Characters]]</text>
+      <sha1>dhtchkr47lvfcrmuj77cjd2n0bgjl4j</sha1>
+    </revision>
+  </page>

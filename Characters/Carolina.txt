@@ -1,0 +1,59 @@
+  <page> # Carolina
+    <title>Carolina</title>
+    <ns>0</ns>
+    <id>110</id>
+    <revision>
+      <id>538</id>
+      <parentid>537</parentid>
+      <timestamp>2020-05-10T09:23:03Z</timestamp>
+      <contributor>
+        <username>Ryttyr</username>
+        <id>24005255</id>
+      </contributor>
+      <minor/>
+      <comment>Added her age and fixed some spacing derps in te character tab.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2617">{{Character
+|name = Carolina
+|image1 = Lina Witch.png
+|tab1 = Witch
+|image2 = Lina Imaginary.png
+|tab2 = Imaginary
+|tab3 = Red Hood
+|image3 = lina_red.png
+|first_appearance = Episode 1
+|race = Witch
+|nicknames = Lina (Self)&lt;br/&gt;Pink Rose (Red Hood)&lt;br/&gt;The Traitor (Post Red Hood)
+|occupation = [[Red Hoods]] (Former)
+|relationships = [[Guadalupe Jara]] (Friend)
+|magic_manifest = Fuchsia
+|bells_in_possession = 21
+|imagecaption = 
+|age = ~17}}
+
+== Initial Appearance ==
+Originally appearing in ''Episode 1'', Carolina, more commonly known as Lina, was introduced as [[Guadalupe Jara|Lupe's]] imaginary and only friend. Unlike others, Lina seemed to care a lot about Lupe and be invested in what she does, instead of ignoring her like her classmates or telling her who she can and can't be like her mom.
+
+== Physical Appearance ==
+When Lina was first introduced, she appeared as a normal human, like Lupe. Instead of pink hair and eyes, imaginary Lina had hazel hair and eyes, along with the school's girls' outfit and a bag, both of the same water/spring green, white, and orange color scheme as her sweater in the later chapters. She also has the same shade of green for her bracelet and orange nails, with gray socks and brown shoes instead of green nails and green shoes (shown in later chapters).
+
+In ''Episode 2'', she is shown to wear a pink and yellow shirt.
+
+In ''Episode 3'' Lina was seen with her most common appearance, her witch appearance, for the first time. [[Witches|Witch]] Lina have fuchia pink hair and eyes, as well as pointy ears. She wears a type of clothing known as a witches uniform consisting of a white, long-sleeved and loosely fitting shirt with an orange turtleneck, oversized orange cuffs and an orange hem that widens into a skirt-like shape. Beneath that she wears a short, spring green, pleated skirt and a pair of spring green moccasins. She can be seen wearing a white and spring green bag from time to time and from ''Episode 16'' onward she have spring green nail polish as well.
+
+== [[Red Hoods|Red Hood]] ==
+In ''Episode 29'' Carolina is revealed to be a part of the [[Red Hoods]], known as the Pink Rose, She mentions someone called Blue Rose but doesn't elaborate. Carolina was at one point the Leader of the Red Hoods before the group disbanded.
+
+=== The Traitor ===
+In Carolina's Own story, ''Episode 18'', she mentions that the traitor took 6 [[bells]] from the Blue Rose, and along with her 6 used them to face [[The Wolf]]. But facing the wolf, it simply vanished.
+
+The act of stealing Blue Rose's bells labeled her as the traitor.
+
+
+
+{{verify}}
+[[Category:Characters]]</text>
+      <sha1>03x9bq0p2r929y14hxyb1gtnjfp7a3r</sha1>
+    </revision>
+  </page>

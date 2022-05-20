@@ -1,0 +1,32 @@
+  <page> # The Lady
+    <title>The Lady</title>
+    <ns>0</ns>
+    <id>130</id>
+    <revision>
+      <id>439</id>
+      <parentid>399</parentid>
+      <timestamp>2020-03-28T07:14:55Z</timestamp>
+      <contributor>
+        <username>Gegege no Jin</username>
+        <id>45322191</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="839">{{character|first_appearance = Episode 51|name = The Lady|image = The Lady.png}}{{Spoiler}}
+
+{{Stub}}
+
+== Initial Appearance ==
+The Lady is usually referred just by second-hand accounts since her existence is questioned by the majority of the population because of her status as being just a character from the fairy tale, [[Four Leaf]].
+
+The Lady has been mentioned throughout the initial episodes as the ultimate goal of [[Guadalupe Jara]] and [[Carolina]] to wish Lupe back home.
+
+== Wishes Granted ==
+* Liam Lambert, father of [[Alvar Lambert]], wished for a weapon that would allow him to face the witches, so The Lady gave him a stone that the hunters forged into [[The Dragonfly]].
+* [[Carolina]] wished for a friend which ended up sending [[Guadalupe Jara]] to Carolina's world.
+&lt;nowiki&gt;&lt;/nowiki&gt;
+{{verify}}
+[[Category:Characters]]</text>
+      <sha1>hocy2wjfs4yoy9yap0urk81b1xh59us</sha1>
+    </revision>
+  </page>

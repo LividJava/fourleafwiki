@@ -1,0 +1,43 @@
+  <page> # The Least Magical Person
+    <title>The Least Magical Person</title>
+    <ns>0</ns>
+    <id>243</id>
+    <revision>
+      <id>473</id>
+      <parentid>466</parentid>
+      <timestamp>2020-03-29T00:41:43Z</timestamp>
+      <contributor>
+        <username>TheWolfyArtist</username>
+        <id>45321248</id>
+      </contributor>
+      <comment>Linked Lina and Lupe</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3225">{{Episode|title = The Least Magical Girl|image = Episode 01 The Least Magical Person Thumbnail.png|partOfSeason = Season 1|episodeNumber = Episode 1|airDate = September 21, 2018|writer = Lumaga|previousEpisode = N/A|nextEpisode = [[Lina and Lupe]]}}The following article will not contain any images or music from the episode, except the episode's thumbnail. it, however, can be read and seen for yourself [https://www.webtoons.com/en/fantasy/four-leaf/episode-1-the-least-magical-person/viewer?title_no=1454&amp;episode_no=1 here].
+
+==Synopsis==
+[[Guadalupe Jara|Lupe]] deems herself the least magical person in the world after realizing that she doesn't dream.
+==Plot==
+We open in on Lupe falling from the sky. According to the narrator, she has never dreamt before, as far as she remembers and she doesn't know what dreaming feels like, indicating that this is her first time. We see that an alarm is going off in the background, waking Lupe up from whatever dream she had prior. The narrator establishes that Lupe is 16 and up until that point in time, she has never remembered what she had dreamt before waking up.
+
+The episode flashes back to a time from Lupe's childhood, saying that she believed that dreams had something to do with magic and only existed in fairytales and cartoons. She believed that until a teacher of hers asked the class to draw what they had dreamt the night before. Only then does Lupe realize that she might be the least magical person in the class... or in the world.
+
+We go back to the present, Lupe is fixing the tie on her school uniform. She wants to be able to adapt to the fact that she dreams now, just as she hoped to adapt to her not-so-new-anymore city and school. As she throws papers that seem to be for a video game contest, it is revealed that she had never been able to adapt to anything.
+
+We flash back to the year prior, Lupe's first day at her school. She tries to introduce herself but immediately stops herself after everyone stares at her. We get to see a bit more of Lupe's personality as she sits at the back of the class and mopes to herself. Out of nowhere, a girl asks Lupe if the seat next to hers was taken. Turns out, it's that girl's first day of school, saying that she's glad that she has someone to be strangers with. She introduces herself as [[Carolina]], much to Lupe's dismay as she labels Lina as a "talker". When asked, Lupe says that her name is Lupe then quickly correcting herself as Guadalupe, remarking that she always does that. Lina is amused and saying that if she prefers Lupe, then Lupe can address her as Lina.
+
+The two immediately become best friends. We see flashes of scenes where the two are hanging out, with Lina being a supportive figure. It turns out that Lina was the one to tell Lupe to join the video game contest. Lupe says that she needs to think about it with Lina responding that she needs to try.
+==Features==
+===Characters ===
+*[[Guadalupe Jara|Guadalupe "Lupe" Jara]]
+*[[Carolina|Carolina "Lina"]]
+===Locations===
+*Lupe's house
+*Lupe's school
+==Trivia==
+*The scene at the start of the episode turns out to be the scene at the end of the season finale, with the finale being titled "Beginning at the End"
+
+[[Category:Episodes]]</text>
+      <sha1>j0gkoeu8ppxazd3fkooolnesh7i1kap</sha1>
+    </revision>
+  </page>

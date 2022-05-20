@@ -1,0 +1,57 @@
+  <page> # Cricket
+    <title>Cricket</title>
+    <ns>0</ns>
+    <id>194</id>
+    <revision>
+      <id>573</id>
+      <parentid>572</parentid>
+      <timestamp>2021-04-11T12:42:57Z</timestamp>
+      <contributor>
+        <username>LividJava</username>
+        <id>8649201</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2941">{{Character
+|name = Cricket
+|image1 = Cricket.png
+|tab1 = Four Leaf
+|image2 = Cricket_irl.png
+|tab2 = In Real Life
+|first_appearance = Episode 12
+|race = 
+|nicknames = 
+|occupation = Musician
+|relationships = [[Carolina]] - Romantic?/Friend
+[[The Lady]] - Familial/Friend
+|magic_manifest = 
+|bells_in_possession =
+|imagecaption = 
+}}Cricket is a re-occurring character in Four Leaf, He is a supporting character First appearing in '''Episode 12 - The Dragonfly''' he is seen atop a bus waiting area playing an bandoneon. He has some commentary of the woods, and comments on Alvar's sword stating that every witch would recognize him by the [[The Dragonfly|sword]].
+
+== Initial Appearance ==
+Cricket, appears to be a musician, a traveler collecting stories, or at least this much is gleaned from his first appearance. He has clear knowledge of [[The Dragonfly]] and later on [[Four Leaf]]. He seems to be quite friendly and personable.
+
+== Personality ==
+Cricket is a rather placid person, seeming to take things as they come. He seems to appreciate stories and takes the tellings of them quite seriously appearing to dislike when Alvar leaves out seemingly important details of [[Four Leaf]] . He also appears to be forgetful judging by his apartment in '''Episode 22 - A place to hide'''. Seeming to joke about a few things here and there in lightheartedness to ease tension as well.
+
+== Further Appearances ==
+&lt;span class="spoilerblur"&gt;
+In '''Episode 34 - The Street Musician''' Cricket appears in what seems to be casual street clothes busking on a bus route, [[Guadalupe Jara|Lupe]] seems to recognize him as Cricket even calling out to him but he says he doesn't know anyone by that name, and gives her a ticket to see his show in Tres Cruces (A real life location). In a later episode, '''Episode 41 - If you wish to''' it is implied that Cricket has magical abilities, identifying himself as he is indeed Cricket, After boarding the bus, Cricket shakes Lupe's hand saying "I could bring you back with me, if you wish too of course." and seems to ''send'' Lupe back to Four Leaf, though it's also implied the whole sequence was the result of Lupe teleporting through a Gloom Pit a sort of vivid lucid dream, supported by [[Emma]] carrying Lupe back to the restaurant.
+&lt;/span&gt;
+
+== Relationships ==
+=== [[The Lady]] ===
+In '''Episode 56''', Cricket and The Lady appear to have a sort of familial relationship with one another, at the end of this episode they both discuss Cricket's fondness towards [[Carolina|Lina]].
+
+=== [[Carolina]] ===
+In early episodes, Cricket appears to have some form of feelings developing towards Lina (Note to editors more writing to be done)
+
+== Misc ==
+* Cricket has knowledge of [[The Lady]], [[The Dragonfly]], [[Four Leaf]], [[The Wolf]], as well as [[Red Hoods|Red-hoods]].
+* According to Lau, a waitress of the Guadalupe Restaurant, Cricket is quite talented in music.{{Verify}}
+[[Category:Characters]]</text>
+      <sha1>tt580xb01mjoeapqkq3av31zogl4j1n</sha1>
+    </revision>
+  </page>

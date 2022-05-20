@@ -1,0 +1,51 @@
+  <page> # Alvar Lambert
+    <title>Alvar Lambert</title>
+    <ns>0</ns>
+    <id>118</id>
+    <revision>
+      <id>323</id>
+      <parentid>322</parentid>
+      <timestamp>2020-01-19T06:03:05Z</timestamp>
+      <contributor>
+        <username>LividJava</username>
+        <id>8649201</id>
+      </contributor>
+      <comment>set the image to inline</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3949">{{Character|first_appearance = Episode 8|race = [[Deidri]]|occupation = Hunter (Current)|relationships = [[Liam Lambert|Liam Lambert]] (Father)|image = Alvar.png|imagecaption = Precious Edgy Boy Drinking Juice|age = 15}}
+
+== Initial Appearance ==
+Appeared as a background character in ''Episode 8 - Witch Hunting'', when a group of Hunters arrive to interrupt [https://fourleaf.fandom.com/wiki/Carolina Lina's] Gloom collecting and apprehend her. He is later established to have a more prominent role in the story once he converses with [https://fourleaf.fandom.com/wiki/Guadalupe_Jara Lupe] in ''Episode 10 - A Meeting at the Station'' and they exchange names.
+
+== Heir to the Dragonfly ==
+Alvar carries a sword known as the [[The Dragonfly|Dragonfly]]. In ''Episode 12 - The Dragonfly'' readers learn from Cricket that the sword has unique traits and is carried through a line of successors. In ''Episode 15 - Gloom Pit'' Lina emphasizes this fact by stating, "I know exactly who you are, Alvar Lambert...heir of the dragonfly."
+
+== Relationships ==
+
+=== [[Liam Lambert]] ===
+Not much is known of Liam at the moment aside from mentions that he is Alvar's father and chief of the Deidri village. He is known to be the one who passed the Dragonfly on to Alvar. ''In Episode 46 - Heir of the Chief'' Alvar tells Lupe about his reluctance in becoming the next in line for chief, a role that his father and many others expect him to accept without complaint. One additional detail is that Liam may have had a hand in deciding Alvar's arranged marriage partner.
+
+=== [[Guadalupe Jara|Lupe]] ===
+Upon first meeting it seems Alvar doesn't seem to think much of Lupe. It's only in ''Episode 14 - Midnight Visitor'' that he is shown to have some sense of responsibility towards her as a Hunter when he believes she is in danger of Lina. Alvar overall is seen to be on relatively good terms with Lupe as the story progresses. Although they have yet to openly state if they've become friends or are just mere acquaintances together in an odd circumstance. Whether it's due to her also being a Deidri or his sense of responsibility in helping her he hasn't shown much hostility towards her.
+
+=== [[Carolina|Lina]] ===
+Saying the relationship between these two is rocky would be putting it mildly. Alvar doesn't have any trust or empathy towards Lina and it seems the latter feels the same way. This is mainly due to the fact that one is a Hunter and the other a Witch, so it's not surprising they would see each other as enemies. Their hostility with one another has probably only been accentuated when Lina essentially blackmails Alvar in ''Episode 15 - Gloom Pit ''by making him escort herself and Lupe to the Lady.
+
+=== [[Cricket]] ===
+Cricket advises Alvar to not travel through the woods at night in ''Episode 12 - The Dragonfly'' and instead redirects him to staying at an inn he knows. Alvar doesn't [[File:Alvar_isn't_happy_01.jpg|thumb|left|127px|Alvar removing Cricket's note from his drink.]] seem too fond of him, but it only comes off as mild annoyance or skepticism depending on the situation.
+
+
+=== [[The Lady]] ===
+Alvar doesn't believe that the Lady exists. He only sees her as a myth. In ''Episode 20 - Bedtime Story'' Alvar tells Lupe about the origins of the Lady in a folk tale known as Four Leaf. Despite the fact that the Wolf from the tale is based on the real thing and how many people have claimed to have met her, Alvar is still skeptical to her existence.
+
+"But that doesn't make everything else on the tale real. They just made up a story to tell where the wolf came from, I guess." - ''Alvar to Lupe in Episode 20 - Bedtime Story''
+
+== Trivia ==
+* The Discord user (and subsequent Wiki Editor) [[User:Ziirroh|Ziirroh#1303]], Has been deemed by the community Alvar due to their affinity for the character. They have even received a special role ''''The Alvar'''' in recognition of this.
+
+[[es:{{PAGENAME}}]]
+[[Category:Characters]]</text>
+      <sha1>0bvt59ghr5atdab9tj3ywy5cv4sce93</sha1>
+    </revision>
+  </page>

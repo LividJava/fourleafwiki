@@ -1,0 +1,45 @@
+  <page>
+    <title>A Meeting at the Station</title>
+    <ns>0</ns>
+    <id>265</id>
+    <revision>
+      <id>518</id>
+      <parentid>516</parentid>
+      <timestamp>2020-03-30T23:20:12Z</timestamp>
+      <contributor>
+        <username>TheWolfyArtist</username>
+        <id>45321248</id>
+      </contributor>
+      <minor/>
+      <comment>added the thumbnail</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="743">{{Episode
+|title = A Meeting at the Station
+|image =Episode 10 A Meeting at the Station Thumbnail.png
+|partOfSeason = Season 1
+|episodeNumber = Episode 10
+|airDate = November 9, 2018
+|writer = Lumaga
+|previousEpisode = [[Betrayal]]
+|nextEpisode = [[Bad Company]]
+}}The following article will not contain any images or music from the episode, except the episode's thumbnail. it, however, can be read and seen for yourself [https://www.webtoons.com/en/fantasy/four-leaf/episode-10-a-meeting-at-the-station/viewer?title_no=1454&amp;episode_no=10 here].
+
+==Synopsis==
+Lupe makes an unlikely acquaintance.
+
+==Plot==
+
+==Features==
+
+===Characters ===
+*[[Guadalupe Jara|Guadalupe "Lupe" Jara]]
+*[[Alvar Lambert]]
+
+===Locations===
+* Bus Station
+
+==Trivia==</text>
+      <sha1>5q5sruo8nbb6qxs1e855vw3yhwp9fx4</sha1>
+    </revision>
+  </page>
