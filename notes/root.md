@@ -1,20 +1,22 @@
 ---
 id: 4eld83v9eo2oby5lp8a4e1y
-title: Root
+title: Four Leaf Wiki
 desc: ''
-updated: 1670590143925
+updated: 1670595894623
 created: 1670590143926
 ---
-# Welcome to Dendron
+# Welcome to the Four Leaf Wiki
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+This is the third iteration of the Four Leaf Wiki... (Someone help). Hosted here you'll find information on various characters and places! On the left you can find a list of categories, Drop them down to view additional links. On the right you'll find the Table of Contents.
 
-## Lookup
+We're still migrating so some pages will not have information! Please bear with us!
 
-This section contains useful links to related resources.
 
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
+## Links
+
+This section contains useful links to related resources and the community.
+
+- [Getting Started (Dendron)](https://link.dendron.so/6b25)
+- [[Getting Started (Edit with Github)|meta.github]]
+- [Github Repository](https://github.com/LividJava/fourleafwiki)
+- [Official Four Leaf Discord](https://discord.gg/QERZXpP)
