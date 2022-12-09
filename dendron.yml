@@ -91,8 +91,8 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: Four Leaf Wiki
+        description: A wiki for the Four Leaf comic on Webtoons!
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
@@ -105,3 +105,4 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
+    siteUrl: https://wiki.fourleafcomic.com

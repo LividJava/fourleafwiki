@@ -1,0 +1,23 @@
+{
+  "name": "flwiki",
+  "version": "1.0.0",
+  "description": "Repo of the Four Leaf Wiki pages. to be edited",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LividJava/fourleafwiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LividJava/fourleafwiki/issues"
+  },
+  "homepage": "https://github.com/LividJava/fourleafwiki#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.119.0"
+  }
+}
