@@ -1,8 +1,8 @@
 ---
 id: 4eld83v9eo2oby5lp8a4e1y
 title: Four Leaf Wiki
-desc: ''
-updated: 1670595894623
+desc: 'A wiki dedicated to the Four Leaf webcomic!'
+updated: 1671200193704
 created: 1670590143926
 ---
 # Welcome to the Four Leaf Wiki
@@ -18,5 +18,6 @@ This section contains useful links to related resources and the community.
 
 - [Getting Started (Dendron)](https://link.dendron.so/6b25)
 - [[Getting Started (Edit with Github)|meta.github]]
+- [[Setting up Dendron for the wiki (In Progress)|meta.dendronguide]]
 - [Github Repository](https://github.com/LividJava/fourleafwiki)
 - [Official Four Leaf Discord](https://discord.gg/QERZXpP)
