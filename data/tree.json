@@ -1,0 +1,142 @@
+{
+  "roots": [
+    {
+      "key": "jx4dpa7wvrmme1hynp7iyon",
+      "title": "Characters",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "flwiki",
+      "children": [
+        {
+          "key": "hqherc1dsrtfwq53fxcojvr",
+          "title": "Alice \"The Lady\"",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "flwiki",
+          "children": []
+        },
+        {
+          "key": "lzw2er4a53exd8ojdjlfu7e",
+          "title": "Alvar Lambert",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "flwiki",
+          "children": []
+        },
+        {
+          "key": "w01p2kpcv6tvitsnrj8uly6",
+          "title": "Carla \"The Blue Rose\"",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "flwiki",
+          "children": []
+        },
+        {
+          "key": "4iof5rfj4t46eutdqzrax6k",
+          "title": "Carolina \"Lina\"",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "flwiki",
+          "children": []
+        },
+        {
+          "key": "p828qa5428iymow26ecgkze",
+          "title": "Cricket",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "flwiki",
+          "children": []
+        },
+        {
+          "key": "n7is5ixb8b9jaoo1njl5irg",
+          "title": "Emma",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "flwiki",
+          "children": []
+        },
+        {
+          "key": "lq9ofznw48uxsnme2x3fjun",
+          "title": "Guadalupe \"Lupe\" Sambrano Jara",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "flwiki",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "1xvb2a7f59scvmisqp0lnmd",
+      "title": "Episodes",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "flwiki",
+      "children": [
+        {
+          "key": "om3p9heaw8wb1r56opdb7gw",
+          "title": "Season1",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "flwiki",
+          "children": [
+            {
+              "key": "59in58h0oar4o6sqg8aj8gn",
+              "title": "Episode 1 - The Least Magical Person",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "flwiki",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "87wos8z0r47jor2tx1qe2kf",
+      "title": "Lore",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "flwiki",
+      "children": [
+        {
+          "key": "rr3toxbdhnx2doabo2jogxe",
+          "title": "Witches' Notes",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "flwiki",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "jx4dpa7wvrmme1hynp7iyon": null,
+    "hqherc1dsrtfwq53fxcojvr": "jx4dpa7wvrmme1hynp7iyon",
+    "lzw2er4a53exd8ojdjlfu7e": "jx4dpa7wvrmme1hynp7iyon",
+    "w01p2kpcv6tvitsnrj8uly6": "jx4dpa7wvrmme1hynp7iyon",
+    "4iof5rfj4t46eutdqzrax6k": "jx4dpa7wvrmme1hynp7iyon",
+    "p828qa5428iymow26ecgkze": "jx4dpa7wvrmme1hynp7iyon",
+    "n7is5ixb8b9jaoo1njl5irg": "jx4dpa7wvrmme1hynp7iyon",
+    "lq9ofznw48uxsnme2x3fjun": "jx4dpa7wvrmme1hynp7iyon",
+    "1xvb2a7f59scvmisqp0lnmd": null,
+    "om3p9heaw8wb1r56opdb7gw": "1xvb2a7f59scvmisqp0lnmd",
+    "59in58h0oar4o6sqg8aj8gn": "om3p9heaw8wb1r56opdb7gw",
+    "87wos8z0r47jor2tx1qe2kf": null,
+    "rr3toxbdhnx2doabo2jogxe": "87wos8z0r47jor2tx1qe2kf"
+  },
+  "notesLabelById": {
+    "jx4dpa7wvrmme1hynp7iyon": "Characters",
+    "hqherc1dsrtfwq53fxcojvr": "Alice \"The Lady\"",
+    "lzw2er4a53exd8ojdjlfu7e": "Alvar Lambert",
+    "w01p2kpcv6tvitsnrj8uly6": "Carla \"The Blue Rose\"",
+    "4iof5rfj4t46eutdqzrax6k": "Carolina \"Lina\"",
+    "p828qa5428iymow26ecgkze": "Cricket",
+    "n7is5ixb8b9jaoo1njl5irg": "Emma",
+    "lq9ofznw48uxsnme2x3fjun": "Guadalupe \"Lupe\" Sambrano Jara",
+    "1xvb2a7f59scvmisqp0lnmd": "Episodes",
+    "om3p9heaw8wb1r56opdb7gw": "Season1",
+    "59in58h0oar4o6sqg8aj8gn": "Episode 1 - The Least Magical Person",
+    "87wos8z0r47jor2tx1qe2kf": "Lore",
+    "rr3toxbdhnx2doabo2jogxe": "Witches' Notes"
+  }
+}
