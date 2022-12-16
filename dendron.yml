@@ -81,8 +81,8 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
-    siteFaviconPath: notes/assets/fav.ico
-    logoPath: notes/assets/fllogo.png
+    siteFaviconPath: notes/assets/images/fav.ico
+    logoPath: notes/assets/images/fllogo.png
     theme: dark
     enableFMTitle: true
     enableNoteTitleForLink: true
